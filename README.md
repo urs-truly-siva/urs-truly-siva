@@ -1,16 +1,44 @@
-### Hi there 👋
+# Representing Siva20!, Welcome to My Coding Space👋
 
-<!--
-**urs-truly-siva/urs-truly-siva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Siva20, a dedicated problem solver navigating the exciting realms of machine learning and data science.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 As an avid coder, I'm passionate about leveraging technology to unravel the complexities of machine learning and data science. My journey involves tackling intricate problems, crafting innovative solutions, and contributing to the ever-evolving landscape of technology.
+
+## Mission
+
+🔍 My mission is clear: to harness the power of code in addressing and solving challenges that lie at the intersection of machine learning and data science. Through continuous learning and exploration, I strive to make a meaningful impact in these dynamic fields.
+
+## Ready to Collaborate
+
+💡 I'm always open to collaboration! If you have exciting projects or ideas, let's work together to turn them into reality.
+
+## How to Reach Me
+
+📧 Feel free to reach out to me at sivaavanigadda620@gmail.com. I'm eager to connect and explore new opportunities.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/siva-avanigadda)
+- [Kaggle](https://www.kaggle.com/sivayya)
+
+## Skills
+
+- 🤖 Machine Learning 
+- 🌐 Deep Learning
+- 📊 Data Analysis
+
+## Programming Languages Known
+
+- 🅒 C
+- 🐍 Python
+- 💻 PHP
+- 🌐 HTML
+
+## Database
+
+- 🛢 Oracle SQL
+- 🍃 Mongo DB
+
+Let's code the future together! 💻🌟
