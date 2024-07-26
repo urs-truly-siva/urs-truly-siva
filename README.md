@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urs-truly-siva&label=Profile%20views&color=0e75b6&style=flat" alt="urs-truly-siva" /> </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="Coding animation" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="Coding animation" width="100%"/>
 </p>
 
 - 🔭 I’m currently working on [Infosys Springboard Text Summarizer Project](https://infosys-springboard-summarizer-siva620.streamlit.app/)
@@ -55,6 +55,5 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urs-truly-siva&show_icons=true&locale=en&layout=compact" alt="urs-truly-siva" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=urs-truly-siva&show_icons=true&locale=en" alt="urs-truly-siva" />
 </p>
